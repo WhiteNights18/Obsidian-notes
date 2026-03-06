@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74d0034c938c1846",
+        "id": "54577c3ed0b50364",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3291212cc3bc58",
+            "id": "db538e81d8cdd371",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 linux/shell/zsh-config.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "zsh-config"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 linux/shell/zsh-config.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "zsh-config 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -180,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebe02728a10c52ba",
+  "active": "db538e81d8cdd371",
   "lastOpenFiles": [
-    "cursor.md",
     "2 linux/shell/zsh-config.md",
+    "cursor.md",
     "4 vim/vim-cheat-sheet.md",
     "4 vim/zed-vim-command.md",
     "4 vim/vim-tutorial-index.md",
