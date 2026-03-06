@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 linux/shell/zsh-config.md",
+                "file": "cursor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zsh-config"
+              "title": "cursor"
             }
           }
         ]
@@ -164,14 +164,23 @@
               "icon": "lucide-list",
               "title": "zsh-config 的大纲"
             }
+          },
+          {
+            "id": "433e5a607a18174c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +196,8 @@
   },
   "active": "ae3291212cc3bc58",
   "lastOpenFiles": [
-    "cursor.md",
     "2 linux/shell/zsh-config.md",
+    "cursor.md",
     "4 vim/vim-cheat-sheet.md",
     "4 vim/zed-vim-command.md",
     "4 vim/vim-tutorial-index.md",
