@@ -1,5 +1,5 @@
 
-```bash
+```javascript
 " 显示行号 - 方便定位代码
 set number
  
