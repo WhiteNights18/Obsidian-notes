@@ -1,0 +1,5 @@
+print("=" * 80)
+print("No main.py was found so one was created!")
+print("Add your own code to this file: /home/perilla/Documents/vault_on_fedora/main.py")
+print("=" * 80)
+input("Key enter to close.")
