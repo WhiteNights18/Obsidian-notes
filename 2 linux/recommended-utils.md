@@ -2,5 +2,6 @@
 `bat(batcat)`
 `ncdu`
 `apropos`
+`yazi`
 
 ---
