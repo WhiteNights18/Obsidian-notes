@@ -25,15 +25,15 @@
 | c                     | Copy link target into the clipboard   将链接目标复制到剪贴板中                              |
 | \\:                   | Enter command 指挥权进入                                                             |
 | r                     | Rotate by 90 degrees   旋转90度                                                    |
-| ^r                    | Recolor (grayscale and invert colors)   重新着色（灰度和倒色）                             |
+| `^r`                  | Recolor (grayscale and invert colors)   重新着色（灰度和倒色）                             |
 | R                     | Reload document 重新加载文档                                                          |
 | Tab                   | Show index and switch to **Index mode**   显示索引并切换到 **索引模式**                     |
 | d                     | Toggle dual page view   切换双页视图                                                  |
 | D                     | Cycle opening column in dual page view   双页视图中的循环开篇列                            |
 | F5                    | Switch to presentation mode   切换到展示模式                                           |
 | F11                   | Switch to fullscreen mode   切换到全屏模式                                             |
-| ^m                    | Toggle inputbar 切换输入栏                                                           |
-| ^n                    | Toggle statusbar 切换状态栏                                                          |
+| `^m`                  | Toggle inputbar 切换输入栏                                                           |
+| `^n`                  | Toggle statusbar 切换状态栏                                                          |
 | +, -, =               | Zoom in, out or to the original size   放大、缩小或恢复原始尺寸                             |
 | zI, zO, z0            | Zoom in, out or to the original size   放大、缩小或恢复原始尺寸                             |
 | n=                    | Zoom to size n   放大到 n 大小                                                       |
@@ -77,15 +77,15 @@
 
 ## Mouse bindings
 
-| Input | Description |
-| --- | --- |
-| Scroll | Scroll up or down |
-| ^Scroll | Zoom in or out |
-| Drag Button2 (middle button drag) | Pan the document |
-| Button1 (left click) | Follow link |
-| Drag Button1 | Select text |
-| Drag S-Button1 | Highlight region |
-| Button3 (right click) | Open popup menu to copy/save image (activates for images recognized by `export` command) |
+| Input                             | Description                                                                              |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| Scroll                            | Scroll up or down                                                                        |
+| `^Scroll`                         | Zoom in or out                                                                           |
+| Drag Button2 (middle button drag) | Pan the document                                                                         |
+| Button1 (left click)              | Follow link                                                                              |
+| Drag Button1                      | Select text                                                                              |
+| Drag S-Button1                    | Highlight region                                                                         |
+| Button3 (right click)             | Open popup menu to copy/save image (activates for images recognized by `export` command) |
 
 ## Commands
 
