@@ -12,3 +12,4 @@
 `ctrl-insert` copy
 `shift-insert` paste
 `ctrk-k r` reveal in file manager
+``ctrl-` `` terminal
