@@ -16,7 +16,7 @@ pdf2zh_next /path/to/your/document.pdf
 
 ---
 
-## 二、使用 DeepSeek API（你最关心的）
+## 二、使用 DeepSeek API
 
 ### 方式一：直接指定 API Key
 
@@ -30,7 +30,7 @@ pdf2zh_next input.pdf --deepseek --deepseek-api-key "sk-你的密钥"
 pdf2zh_next input.pdf --deepseek --deepseek-model "deepseek-chat" --deepseek-api-key "sk-你的密钥"
 ```
 
-### 方式三：设置环境变量（推荐，避免泄露）
+### 方式三：设置环境变量
 
 **Linux/Mac**:
 ```bash
